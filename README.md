@@ -1,5 +1,7 @@
 # Github_webhook
 
+Code is in the master branch
+
 Install requirements
 
 pip install -r requirements.txt
